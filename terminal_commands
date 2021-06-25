@@ -4,4 +4,4 @@ cd . ==> to .(dot) stands for current directory and ..(double dot) stands for pa
 cat ==> to read content of a file in terminal
 scp user@remote_ip:/path_to_file local_server_path ==> To copy file from remote server to local: Run it in local server
 To install dmg file ==> 1. download file 2. double click on file 3. drag the application to applications directory
-
+psql postgres ==> login to postgres cli
