@@ -5,3 +5,13 @@ cat ==> to read content of a file in terminal
 scp user@remote_ip:/path_to_file local_server_path ==> To copy file from remote server to local: Run it in local server
 To install dmg file ==> 1. download file 2. double click on file 3. drag the application to applications directory
 psql postgres ==> login to postgres cli
+popd ==> to move to previously mentioned path.
+mdfind -name file_name_char ==> to find path of file by file_name_char
+whatis command_name ==> to find what a command does. It gives description
+man command ==> to read documentation for command
+*(asteric) ==> it select everything
+for ex: umang* will select every file which have initials of umang
+cat file_name ==> list out contnet of file
+cat >> file_name ==> append contnet to a file
+cat > file ==> remove old content and add new content
+less file_name ==> scroll throuh content of file
