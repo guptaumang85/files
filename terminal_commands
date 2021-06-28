@@ -15,3 +15,4 @@ cat file_name ==> list out contnet of file
 cat >> file_name ==> append contnet to a file
 cat > file ==> remove old content and add new content
 less file_name ==> scroll throuh content of file
+ls -all /(path of directory) file_name ==> to put output of command into file_name file
