@@ -1,2 +1,6 @@
 brew services start httpd || sudo apachectl start ==> to start apache server.
 /usr/local/etc/httpd ==> path to httpd config file.
+docker compose logs ==> to find token to login to JupyterLab
+python3 -m venv id-venv ==> to create virtual environment named 'id-venv'
+source id-venv/bin/activate ==> to activate/get into newly created virtual environment
+jupyter lab ==> to start jupyter lab inside the virtual environment.
