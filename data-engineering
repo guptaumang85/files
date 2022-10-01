@@ -1,1 +1,2 @@
-brew services start httpd || sudo apachectl start ==> to start apache server
+brew services start httpd || sudo apachectl start ==> to start apache server.
+/usr/local/etc/httpd ==> path to httpd config file.
