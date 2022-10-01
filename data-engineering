@@ -1,1 +1,1 @@
-brew services start httpd ==> to start apache server
+brew services start httpd || sudo apachectl start ==> to start apache server
