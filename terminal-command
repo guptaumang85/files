@@ -18,3 +18,4 @@ less file_name ==> scroll throuh content of file
 ls -all /(path of directory) file_name ==> to put output of command into file_name file
 ctrl+A ==> to jump to the beginning of the current command
 ctrl+E ==> to jump to the end of the current command
+brew search {package-name} ==> to find already existing package inside brew. It already tells about whether it's installed or not in your system.
