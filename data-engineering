@@ -1,4 +1,5 @@
 brew services start httpd || sudo apachectl start ==> to start apache server.
+docker-compose up itvdflab ==> to start itvdflab and associated postgres container.
 /usr/local/etc/httpd ==> path to httpd config file.
 docker compose logs ==> to find token to login to JupyterLab
 python3 -m venv id-venv ==> to create virtual environment named 'id-venv'
